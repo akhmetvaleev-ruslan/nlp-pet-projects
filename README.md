@@ -1,2 +1,2 @@
 # NLP pet projects
-Natural Lnguage Processing Pet projects via jupyter notebooks
+Natural Language Processing Pet projects via jupyter notebooks

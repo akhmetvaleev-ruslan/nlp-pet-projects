@@ -1,2 +1,2 @@
-# lstm-generation-example
-Text generation using Dante's Divine Comedy
+# NLP pet projects
+Natural Lnguage Processing Pet projects via jupyter notebooks
